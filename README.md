@@ -13,4 +13,4 @@ double getDisk()  // get Current Disk Usage
 
 double getNetwork()  //get Current network usage
 
-String[] getConstantData()  // get system data in the sequence of :  host name,os name, os version , system manufacturer<space>system model, Total Ram
+String[] getConstantData()  // get system data in the sequence of :  host name,os name, os version , system manufacturer+system model, Total Ram
